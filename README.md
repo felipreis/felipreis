@@ -4,7 +4,7 @@
 
 Student of Systems Analysis and Development, with a special affinity for exact sciences and problem-solving.
 
-Great enthusiast of the Tolkien universe, music lover, and skateboarder.
+Great enthusiast of the Tolkien universe, music lover, and skate.
 
 Currently, I am developing and refining my knowledge in the Java language.
 
@@ -43,7 +43,7 @@ Currently, I am developing and refining my knowledge in the Java language.
 
 Estudante de Análise e Desenvolvimento de Sistemas, com uma afinidade especial pelas ciências exatas e pela resolução de problemas.
 
-Grande entusiasta do universo de Tolkien, amante da música e skatista.
+Grande entusiasta do universo de Tolkien, amante da música e skate.
 
 Atualmente, estou desenvolvendo e aprimorando meus conhecimentos na linguagem Java.
 
